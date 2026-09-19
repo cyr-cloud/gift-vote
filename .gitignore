@@ -1,0 +1,6 @@
+# courses/ 에는 학생 실명이 들어간다. 공개 저장소라 절대 올리지 않는다 (각자 컴퓨터에만 둔다).
+courses/
+
+__pycache__/
+.playwright-mcp/
+*.tmp
